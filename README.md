@@ -7,10 +7,17 @@ five hundred
 six hundred
 seven hundred
 eight hundredd
-nine hndred
+nine hundred
+ten
+twenty
+thirty
+fourty
+fifty
+sixty
+seventy
 two 
-three 
+three
 four
-five
-Six
+five 
+six
 
